@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Pantry Manager (Android, Java)
 
 Tracks pantry ingredients and suggests ONLY recipes you can cook right now (strict matching).
@@ -21,3 +22,7 @@ If your Android Studio is older, update it, or lower the AGP version in the root
 - Matching handles case, spacing, plurals (tomato/tomatoes), unit conversion (kg/g, l/ml, tsp/tbsp/cup) and sums duplicate pantry rows.
 - Limitation: count vs weight/volume (e.g. pantry "tomato 500 g" vs recipe "4 pcs") is deliberately not guessed.
 - No Google Maps, no location/GPS, no payments.
+=======
+# Pantry-Manager
+An Android software called Smart Pantry Manager assists users in tracking food supplies, organizing kitchen goods, and finding recipes depending on what they have at home. It makes meal planning simpler, cuts down on food waste, saves time, and prevents needless grocery expenditures.
+>>>>>>> 072d6793c55f06ce47ca781c6c0d59ae2c136060

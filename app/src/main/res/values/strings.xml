@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Pantry Manager</string>
+
+    <string name="title_pantry">My Pantry</string>
+    <string name="title_suggestions">Suggested Recipes</string>
+    <string name="title_settings">Settings</string>
+    <string name="nav_pantry">Pantry</string>
+    <string name="nav_recipes">Recipes</string>
+    <string name="nav_settings">Settings</string>
+
+    <string name="pantry_empty">Your pantry is empty.\nTap + to add your first ingredient.</string>
+    <string name="add_ingredient">Add ingredient</string>
+    <string name="edit_ingredient">Edit ingredient</string>
+    <string name="no_expiry">No expiry date</string>
+    <string name="expires_on">Expires: %1$s</string>
+    <string name="expiring_banner">%1$d item(s) expired or expiring within %2$d days</string>
+
+    <string name="hint_name">Ingredient name</string>
+    <string name="hint_qty">Quantity</string>
+    <string name="label_unit">Unit</string>
+    <string name="hint_expiry">Expiry date (optional)</string>
+    <string name="clear_expiry">Clear expiry date</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="delete_title">Delete ingredient?</string>
+    <string name="delete_message">Remove %1$s from your pantry?</string>
+    <string name="item_added">Ingredient added</string>
+    <string name="item_updated">Ingredient updated</string>
+    <string name="item_deleted">Ingredient deleted</string>
+    <string name="cd_add">Add ingredient</string>
+    <string name="cd_edit">Edit</string>
+    <string name="cd_delete">Delete</string>
+
+    <string name="err_name_required">Please enter an ingredient name</string>
+    <string name="err_name_invalid">Use a valid name (letters, max 40 characters)</string>
+    <string name="err_qty_required">Please enter a quantity</string>
+    <string name="err_qty_invalid">Enter a number greater than 0 (max 100000)</string>
+
+    <string name="summary_count">You can cook %1$d recipe(s) right now</string>
+    <string name="summary_none">Nothing to cook yet</string>
+    <string name="no_matches">No recipes match your pantry yet - add more ingredients</string>
+    <string name="almost_header">Almost there - missing just 1 ingredient (not cookable yet)</string>
+    <string name="ready_to_cook">%1$d ingredients - you have everything</string>
+
+    <string name="label_ingredients">Ingredients</string>
+    <string name="label_method">Method</string>
+    <string name="status_have_all">You have everything you need</string>
+    <string name="status_missing">Missing %1$d ingredient(s)</string>
+
+    <string name="setting_alerts">Expiring-soon alerts</string>
+    <string name="setting_alerts_desc">Highlight items that expire within 3 days on the pantry screen</string>
+    <string name="setting_unit">Default unit for new ingredients</string>
+    <string name="settings_about">Recipes are suggested only when every ingredient is in your pantry in the required quantity. Units are converted automatically (e.g. kg to g) and plural names are matched (tomato / tomatoes).</string>
+</resources>

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Smart Pantry Manager (Android, Java)
 
 Tracks pantry ingredients and suggests ONLY recipes you can cook right now (strict matching).
